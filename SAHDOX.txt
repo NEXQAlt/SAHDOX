@@ -1,0 +1,264 @@
+⠀⠀⠀⠀⠀⠀⠀⠀⣠⡤⠶⠶⠶⠶⠶⢶⣶⣶⣶⣶⣶⣶⣶⠶⠦⢤⣤⣤⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⡞⠉⠀⠀⢀⠤⢐⣊⠭⠄⠀⠒⠐⠢⠤⠬⠍⡉⢉⠩⠭⠭⠭⠭⡛⠶⣤⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣰⠏⠀⢀⠤⢊⠴⡪⠕⠂⠈⠉⠉⠈⠙⡀⠀⠀⠀⠀⢖⠒⠂⠉⠒⠤⡀⠀⠀⠙⣦⠀⠀⠀
+⠀⠀⠀⢀⣴⠏⠀⠀⠀⠀⠁⠊⣀⣤⣴⣶⣶⠶⣤⣀⠁⠀⠀⠀⠀⠎⠀⣀⣀⣀⡀⠘⠀⠀⠀⢿⡄⠀⠀
+⠀⢀⣴⡿⠟⠒⣦⣀⣀⠒⠆⠺⠿⠿⢻⠛⠻⣶⣤⣙⡷⠀⠀⢠⣤⣶⣿⡿⠿⠿⠿⠃⠒⠒⢢⠤⡙⢶⡀
+⢀⡿⢹⠁⣴⠟⠉⣹⡙⠛⠶⠦⢤⢶⡏⠐⢀⠇⠀⠉⠀⠀⠀⠀⠈⣿⠀⠀⠀⣀⣀⣠⡶⡶⢶⡝⡌⢾⡇
+⠘⡇⢠⠐⣏⢠⣴⣿⠛⠶⣤⣀⡀⣸⠃⠄⣼⠴⣴⠶⠆⠀⠀⠀⠀⠙⢳⣦⡀⠈⠉⠉⢰⣇⠀⠠⠃⣾⡇
+⠈⢿⡌⢆⡻⠀⠀⡿⠦⣄⠈⢹⡟⡏⠀⢠⣧⣀⣻⡆⠛⠛⠃⠠⣄⣤⠞⠋⠉⠑⢂⣠⣾⣿⡆⠐⢪⡿⠁
+⠀⠀⠹⣶⡂⠀⢰⠁⣀⣪⠟⢿⣍⠀⠀⢸⡈⣿⠙⠛⠳⠶⣶⠶⠿⣧⣦⠴⠶⣾⠛⢹⡙⣿⡇⠀⣾⠁⠀
+⠀⠀⠀⠈⢿⣄⡞⢸⡎⠁⠀⢺⠘⠀⠀⠈⠻⠿⣶⣤⣤⣤⣿⣤⣤⣼⣧⣤⣤⣾⣶⣾⣿⣿⡇⠀⣿⠀⠀
+⠀⠀⠀⠀⠀⢻⡤⣿⢀⠀⠀⣿⠀⠀⠀⠀⠀⡄⠘⡍⠙⣿⠻⠿⠿⣿⡿⢿⣿⡿⣿⢿⣿⣿⠁⠀⣿⠀⠀
+⠀⠀⠀⠀⠀⠈⢻⣣⠂⠀⠀⡏⡄⠀⢀⡇⠀⡇⠀⠙⣄⣿⡀⠀⢀⣟⠀⣰⣏⣰⣯⣬⠿⠃⠀⠀⣿⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠰⠃⠄⠀⢸⠀⠀⢹⠀⠀⠻⡉⠉⠉⠉⠉⠉⠉⠉⠉⠀⣀⠔⠀⢠⠀⢻⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⣇⠀⠀⠀⡘⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠤⠆⣐⣂⣒⡒⢂⢂⠈⣁⡠⠔⠁⠀⣸⠃⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠑⠢⣜⠰⠀⠀⠀⠁⠀⠀⠀⢀⣸⣥⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢤⣀⠐⠠⢀⢠⡴⠋⠀⠀⠉⠉⠛⠛⠲⠶⠶⠶⠶⠶⠲⠚⠋⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+——————— Made By NEXØ ———————
+Sah Leak 2025 (zjeb z Ukrainy) podpierdala crackowane wersje, a potem mówi każdemu, że to jego. Leakuje wiele projektów i kradnie dużo materiałów; dodatkowo nakręca sprawy, które już dawno się skończyły. : 
+
+"ip": "46.150.74.72",
+  "hostname": "46.150.74.72.lvv.nat.volia.net",
+  "city": "Kyiv",
+  "region": "Kyiv City",
+  "country": "UA",
+  "loc": "50.4547,30.5238",
+  "org": "AS25229 Limited Liability Company \"KYIVSKI TELEKOMUNIKATSIYNI MEREZHI\"",
+  "postal": "03027",
+  "timezone": "Europe/Kyiv",
+
+https://www.google.com/maps/search/?api=1&query=50.4547,30.5238
+
+organisation:   ORG-TL372-RIPE
+org-name:       Telesvit LLC
+country:        UA
+org-type:       OTHER
+address:        str. Reagan Ronald, building 24,  FLOOR 2, room 15
+address:        02222
+address:        Kiev
+address:        UKRAINE
+phone:          +380445019959
+fax-no:         +380443649445
+e-mail:         lir@volia.net
+abuse-c:        AR17471-RIPE
+admin-c:        VNCC-RIPE
+mnt-ref:        VOLIA-MNT
+mnt-by:         VOLIA-MNT
+created:        2016-03-31T12:38:41Z
+last-modified:  2025-05-01T06:54:33Z
+source:         RIPE
+
+role:           Volia SP Network Coordination Center
+address:        TEODORA DRAIZERA STREET, house 24, FLOOR 2
+e-mail:         noc@volia.net
+phone:          +380443649475
+fax-no:         +380445019959
+admin-c:        OS6535-RIPE
+tech-c:         OS6535-RIPE
+nic-hdl:        VNCC-RIPE
+abuse-mailbox:  abuse@volia.net
+remarks:        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+remarks:
+remarks:        Volia, Volia Cable, KTM and Telesvit contacts:
+remarks:        PR department...............: +380443649475 9:00-18:00 GMT+2
+remarks:        PR department...............: info@volia.com
+remarks:        Corporate web site..........: http://www.volia.com/
+remarks:
+remarks:        All official requests have to be mailed to the following address:
+remarks:        Ukraine, 02222, Kyiv, TEODORA DRAIZERA STREET, house 24, FLOOR 2
+remarks:        Volia Cable, Internet Security Department
+remarks:
+remarks:        Routing and MAN ops.........: noc@volia.net
+remarks:        Local Internet Registry.....: lir@volia.net
+remarks:        E-Mail spam reports.........: abuse@volia.net
+remarks:        DDoS, floods, etc reports...: security@volia.net
+remarks:        Peering requests............: peering@volia.net
+remarks:
+remarks:        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mnt-by:         VOLIA-MNT
+created:        2002-09-10T07:31:57Z
+last-modified:  2023-07-21T09:54:21Z
+source:         RIPE
+
+% Information related to '46.150.74.0/24AS25229'
+
+route:          46.150.74.0/24
+descr:          Volia
+origin:         AS25229
+mnt-by:         VOLIA-MNT
+created:        2023-11-24T09:20:42Z
+last-modified:  2023-11-24T09:20:42Z
+source:         RIPE
+
+Sah Leak":
+- IP: `46.150.74.72`
+- Lokalizacja: **Kyiv, Kyiv City, Ukraine**
+- Sieć: *Limited Liability Company KYIVSKI TELEKOMUNIKATSIYNI MEREZHI*
+- Pozycja: 50.458, 30.5303
+- Przeglądarka: `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36`
+
+total 10068
+drwxr-xr-x   4 root root    4096 May 29 15:13 .
+drwxr-xr-x 376 root root   12288 Oct  4 17:33 ..
+-rw-r--r--   1 root root   10829 May 15 11:37 nmap.dtd
+-rw-r--r--   1 root root 1218140 May 15 11:37 nmap-mac-prefixes
+-rw-r--r--   1 root root 5306593 May 15 11:37 nmap-os-db
+-rw-r--r--   1 root root    6845 May 15 11:37 nmap-protocols
+-rw-r--r--   1 root root   43529 May 15 11:37 nmap-rpc
+-rw-r--r--   1 root root 2573533 May 15 11:37 nmap-service-probes
+-rw-r--r--   1 root root  997433 May 15 11:37 nmap-services
+-rw-r--r--   1 root root   31936 May 15 11:37 nmap.xsl
+drwxr-xr-x   3 root root    4096 May 29 15:13 nselib
+-rw-r--r--   1 root root   49961 May 15 11:37 nse_main.lua
+drwxr-xr-x   2 root root   32768 May 29 15:13 scripts
+
+Ip Details For: 46.150.74.72
+Decimal: 781601352
+Hostname: 46.150.74.72.lvv.nat.volia.net
+ASN: 25229
+ISP: Telesvit LLC
+Services: None Detected
+Country: Ukraine
+State/Region: Kyiv
+City: Kyiv
+Latitude: 50.4547 (50° 27’ 16.77” N)
+Longitude: 30.5238 (30° 31’ 25.68” E)
+
+IP Address    Location    Network    Postal Code    Approximate Latitude / Longitude*, and Accuracy Radius    ISP / Organization    Domain    Connection Type
+46.150.74.72    Kyiv, Kyiv City, Ukraine (UA), Europe    46.150.74.0/24    02222    50.458, 30.5303 (20 km)    Limited Liability Company KYIVSKI TELEKOMUNIKATSIY    volia.net    Cable/DSL
+
+46.150.74.72
+Kyiv, Kyiv City, Ukraine (UA), Europe
+46.150.74.0/24
+02222
+50.458, 30.5303 (20 km)
+Limited Liability Company KYIVSKI TELEKOMUNIKATSIY
+volia.net
+Cable/DSL
+
+{
+  "ip": "46.150.74.72",
+  "hostname": "46.150.74.72.lvv.nat.volia.net",
+  "city": "Kyiv",
+  "region": "Kyiv City",
+  "country": "UA",
+  "loc": "50.4547,30.5238",
+  "postal": "03027",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS25229",
+    "name": "Limited Liability Company \"KYIVSKI TELEKOMUNIKATSIYNI MEREZHI\"",
+    "domain": "volia.com",
+    "route": "46.150.74.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Volia",
+    "domain": "volia.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kyivski Telekomunikatsiyni Merezhi LLC, str. Reagan Ronald, building 24, FLOOR 2, room 15, Kiev, Ukraine, 02222",
+    "country": "UA",
+    "email": "abuse@volia.net",
+    "name": "Volia",
+    "network": "46.150.64.0/19",
+    "phone": "+380443649475"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}
+
+{
+  "ip": "46.150.74.72",
+  "hostname": "46.150.74.72.lvv.nat.volia.net",
+  "geo": {
+    "city": "Kyiv",
+    "region": "Kyiv City",
+    "region_code": "30",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "continent": "Europe",
+    "continent_code": "EU",
+    "latitude": 50.45466,
+    "longitude": 30.5238,
+    "timezone": "Europe/Kyiv",
+    "postal_code": "03027",
+    "geoname_id": "703448",
+    "radius": 50,
+    "last_changed": "2024-07-21"
+  },
+  "as": {
+    "asn": "AS25229",
+    "name": "Limited Liability Company \"KYIVSKI TELEKOMUNIKATSIYNI MEREZHI\"",
+    "domain": "volia.com",
+    "type": "isp",
+    "last_changed": "2025-09-28"
+  },
+  "mobile": {},
+  "anonymous": {
+    "is_proxy": false,
+    "is_relay": false,
+    "is_tor": false,
+    "is_vpn": false
+  },
+  "is_anonymous": false,
+  "is_anycast": false,
+  "is_hosting": false,
+  "is_mobile": false,
+  "is_satellite": false
+}
+
+{
+  "ip": "46.150.74.72",
+  "hostname": "46.150.74.72.lvv.nat.volia.net",
+  "geo": {
+    "city": "Kyiv",
+    "region": "Kyiv City",
+    "region_code": "30",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "continent": "Europe",
+    "continent_code": "EU",
+    "latitude": 50.45466,
+    "longitude": 30.5238,
+    "timezone": "Europe/Kyiv",
+    "postal_code": "03027"
+  },
+  "as": {
+    "asn": "AS25229",
+    "name": "Limited Liability Company \"KYIVSKI TELEKOMUNIKATSIYNI MEREZHI\"",
+    "domain": "volia.com",
+    "type": "isp"
+  },
+  "is_anonymous": false,
+  "is_anycast": false,
+  "is_hosting": false,
+  "is_mobile": false,
+  "is_satellite": false
+}
+
+{
+  "ip": "46.150.74.72",
+  "asn": "AS25229",
+  "as_name": "Limited Liability Company \"KYIVSKI TELEKOMUNIKATSIYNI MEREZHI\"",
+  "as_domain": "volia.com",
+  "country_code": "UA",
+  "country": "Ukraine",
+  "continent_code": "EU",
+  "continent": "Europe"
+}
